@@ -2,7 +2,7 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-"Pocket Church" is a Telegram Bot. It was created to have a your own church nearby.
+["Pocket Church"](https://pocket_church_bot.t.me) is a Telegram Bot. It was created to have a your own church nearby.
 
 
 ## Features
